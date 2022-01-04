@@ -1,4 +1,4 @@
-Create using Python Flask, SQL Alchemy and Marshmallow
+Create using Python Flask, SQLAlchemy and Marshmallow
 
 ## Quick Start Using Pipenv
 
